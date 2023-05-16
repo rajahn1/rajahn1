@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on a bootcamp in [Cubos Academy](https://cubos.academy/)
 
-- 🌱 I’m currently learning **React, Vue.js.**
+- 🌱 I’m currently learning **TypeScript, Vue.js, NextJS and MySQL.**
 
 - 📫 How to reach me **rafayuno@gmail.com**
 
