@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Vue.js, NextJS and MySQL.**
 
-- 📫 How to reach me **rafayuno@gmail.com**
+- 📫 How to reach me: portfólio: https://rjahn-portfolio.netlify.app/, email: **rafayuno@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
