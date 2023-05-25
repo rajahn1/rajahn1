@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Fullstack Development at [Cubos Academy](https://cubos.academy/)
 
-- 🌱 I’m currently learning **TypeScript, Redux, Next.js and MySQL.**
+- 🌱 I’m currently learning **TypeScript, Redux, Next.js and MySQL**
 
 - 📫 How to reach me: portfólio: https://rjahn-portfolio.netlify.app/, email: **rafayuno@gmail.com**
 
