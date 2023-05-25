@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Jahn</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently studying on a bootcamp in [Cubos Academy](https://cubos.academy/)
+- 🔭 I’m currently studying Fullstack Development at [Cubos Academy](https://cubos.academy/)
 
 - 🌱 I’m currently learning **TypeScript, Redux, Next.js and MySQL.**
 
