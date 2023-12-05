@@ -5,7 +5,7 @@
 
 - 🌱 I'm deepening my knowledge in **Golang and C#**
 
-- I'm studying analysis and systems development at **UNOPAR** 
+- :blue_book: I'm studying analysis and systems development at **UNOPAR** 
 
 - 📫 How to reach me: portfólio: https://rjahn-portfolio.netlify.app/, email: **rafayuno@gmail.com**
 
