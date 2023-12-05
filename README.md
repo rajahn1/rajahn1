@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Jahn</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently studying Fullstack Development at [Cubos Academy](https://cubos.academy/)
+- 🔭 I’m currently working on Fockink, developing solutions for thermometry and grain aeration. [Fockink](https://www.fockink.ind.br/)
 
-- 🌱 I’m currently learning **C#, Next.js and GraphQL**
+- 🌱 I'm deepening my knowledge in **Golang and C#**
+
+- I'm studying analysis and systems development at **UNOPAR** 
 
 - 📫 How to reach me: portfólio: https://rjahn-portfolio.netlify.app/, email: **rafayuno@gmail.com**
 
