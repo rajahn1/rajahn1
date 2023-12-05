@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Jahn</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on Fockink, developing solutions for thermometry and grain aeration. [Fockink](https://www.fockink.ind.br/)
+- 🔭 I’m currently working on [Fockink](https://www.fockink.ind.br/), developing solutions for thermometry and grain aeration
 
 - 🌱 I'm deepening my knowledge in **Golang and C#**
 
