@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fockink](https://www.fockink.ind.br/), developing solutions for thermometry and grain aeration
 
-- 🌱 I'm deepening my knowledge in **Golang and MySQL**
+- 🌱 I'm deepening my knowledge in **Golang, MySQL and tests for React Applications**
 
 - :blue_book: I'm studying analysis and systems development at **UNOPAR** 
 
