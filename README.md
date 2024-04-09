@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael Jahn</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Fockink](https://www.fockink.ind.br/), developing solutions for thermometry and grain aeration
+- 🔭 I’m currently working on [Alfa People](https://alfapeople.com/), as a Dynamics 365 developer.
 
-- 🌱 I'm deepening my knowledge in **Golang, MySQL and tests for React Applications**
+- 🌱 I'm deepening my knowledge in **C#, Dynamics 365 and Azure Cloud**
 
 - :blue_book: I'm studying analysis and systems development at **UNOPAR** 
 
